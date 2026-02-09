@@ -1,1 +1,1 @@
-Just getting set up.
+Just getting set up. And it's taking forever. 
