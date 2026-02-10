@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f24aaa40a6b7e3bd",
+        "id": "d7dfe81d971f0ac3",
         "type": "tabs",
         "children": [
           {
-            "id": "bac9d5933465cf7c",
+            "id": "5f08369dffa4b22e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,8 +165,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bac9d5933465cf7c",
+  "active": "5f08369dffa4b22e",
   "lastOpenFiles": [
+    "First Note.md",
+    "Templates/Bases/Albums.base",
+    "Categories/Recipes.md",
+    "References/Brown butter nectarine tart.md",
     "Attachments/Dummy.md",
     "Templates/Bases/Evergreen.base",
     "Templates/Bases/Journal.base",
@@ -177,7 +181,6 @@
     "Templates/Bases/Posts.base",
     "Templates/Bases/Companies.base",
     "Templates/Bases/Books.base",
-    "Templates/Bases/People.base",
     "Templates/Project Template.md",
     "Templates/Place Template.md",
     "Templates/Quote Template.md",
@@ -200,9 +203,6 @@
     "Templates/Actor Template.md",
     "Templates/Post Template.md",
     "Templates/Movie Genre Template.md",
-    "Templates/Book Template.md",
-    "Templates/Food Template.md",
-    "Templates/Meetings List Template.md",
     "Attachments/out-of-control.jpg"
   ]
 }
