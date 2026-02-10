@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d7dfe81d971f0ac3",
+        "id": "83f5db1294a95f67",
         "type": "tabs",
         "children": [
           {
-            "id": "5f08369dffa4b22e",
+            "id": "4d8cf3764faba593",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,8 +165,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5f08369dffa4b22e",
+  "active": "4d8cf3764faba593",
   "lastOpenFiles": [
+    "202602092211.md",
     "First Note.md",
     "Templates/Bases/Albums.base",
     "Categories/Recipes.md",
@@ -202,7 +203,6 @@
     "Templates/Podcast Episode Template.md",
     "Templates/Actor Template.md",
     "Templates/Post Template.md",
-    "Templates/Movie Genre Template.md",
     "Attachments/out-of-control.jpg"
   ]
 }
