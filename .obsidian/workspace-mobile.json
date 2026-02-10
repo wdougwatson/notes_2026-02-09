@@ -16,19 +16,8 @@
               "icon": "lucide-file",
               "title": "New tab"
             }
-          },
-          {
-            "id": "699d75fe5e760226",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -172,14 +161,15 @@
       "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "699d75fe5e760226",
+  "active": "2ee7d8ac97c1f14f",
   "lastOpenFiles": [
+    "First Note.md",
     "Untitled.md",
     "README.md",
-    "First Note.md",
     "First Note"
   ]
 }
