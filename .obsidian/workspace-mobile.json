@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "85abaa74e86bb1af",
+        "id": "f24aaa40a6b7e3bd",
         "type": "tabs",
         "children": [
           {
-            "id": "2ee7d8ac97c1f14f",
+            "id": "bac9d5933465cf7c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,8 +165,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2ee7d8ac97c1f14f",
+  "active": "bac9d5933465cf7c",
   "lastOpenFiles": [
+    "Attachments/Dummy.md",
     "Templates/Bases/Evergreen.base",
     "Templates/Bases/Journal.base",
     "Templates/Bases/Backlinks.base",
@@ -177,7 +178,6 @@
     "Templates/Bases/Companies.base",
     "Templates/Bases/Books.base",
     "Templates/Bases/People.base",
-    "Templates/Bases/Board games.base",
     "Templates/Project Template.md",
     "Templates/Place Template.md",
     "Templates/Quote Template.md",
