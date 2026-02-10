@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1782b0f74400f3c5",
+        "id": "85abaa74e86bb1af",
         "type": "tabs",
         "children": [
           {
-            "id": "4bf9e263016185b4",
+            "id": "2ee7d8ac97c1f14f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "699d75fe5e760226",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -17,7 +27,8 @@
               "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,11 +172,10 @@
       "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "markdown-importer:Open format converter": false,
-      "zk-prefixer:Create new unique note": false,
-      "obsidian-git:Open Git source control": false
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "4bf9e263016185b4",
+  "active": "699d75fe5e760226",
   "lastOpenFiles": [
     "Untitled.md",
     "README.md",
